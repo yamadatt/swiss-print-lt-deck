@@ -1,0 +1,12 @@
+# 生成物（デッキから書き出したもの）
+*.pdf
+*.zip
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# 作業用
+.playwright-mcp/
